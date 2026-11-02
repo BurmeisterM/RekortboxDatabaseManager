@@ -1,0 +1,11 @@
+RecordBox Testdata
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+.artifacts/
+RekordboxManager-Backups/
+RekordboxManager-Protokolle/

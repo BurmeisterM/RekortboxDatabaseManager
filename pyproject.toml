@@ -1,0 +1,9 @@
+[project]
+name = "rekordbox-database-manager"
+version = "1.0.0"
+description = "Deutsche Windows-App zur Verwaltung einer Rekordbox-Sammlung"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
